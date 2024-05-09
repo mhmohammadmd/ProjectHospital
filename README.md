@@ -5,13 +5,15 @@ The Hospital Management System is a comprehensive software solution designed to 
 
 Key Features:
 
-Patient Management: The system allows healthcare providers to maintain detailed records of patients, including personal information, medical history, diagnosis, prescriptions, and treatment plans.
-Appointment Scheduling: Users can schedule appointments for patients, manage doctor availability, and send automated reminders to patients about upcoming appointments.
-Doctor Management: Hospital staff can manage doctor profiles, including their specialties, availability, and patient assignments. It enables efficient allocation of resources and better coordination among medical staff.
-Billing and Invoicing: The system automates billing processes, generates invoices for services rendered, and tracks payments from patients and insurance providers. It helps in maintaining financial records and ensures accurate billing.
-Inventory Management: It facilitates the management of medical supplies, equipment, and pharmaceuticals by keeping track of stock levels, expiration dates, and supplier information. This ensures timely procurement and avoids stockouts.
-Electronic Health Records (EHR): The system provides a secure repository for storing and accessing electronic health records, enabling authorized healthcare professionals to retrieve patient information quickly and efficiently.
-Reporting and Analytics: Users can generate various reports and analyze key performance metrics to monitor the hospital's operational efficiency, patient outcomes, and financial performance.
+1. Patient Management: The system allows healthcare providers to maintain detailed records of patients, including personal information, medical history, diagnosis, prescriptions, and treatment plans.
+2. Appointment Scheduling: Users can schedule appointments for patients, manage doctor availability, and send automated reminders to patients about upcoming appointments.
+3. Doctor Management: Hospital staff can manage doctor profiles, including their specialties, availability, and patient assignments. It enables efficient allocation of resources and better coordination among medical staff.
+4. Billing and Invoicing: The system automates billing processes, generates invoices for services rendered, and tracks payments from patients and insurance providers. It helps in maintaining financial records and ensures accurate billing.
+5. Inventory Management: It facilitates the management of medical supplies, equipment, and pharmaceuticals by keeping track of stock levels, expiration dates, and supplier information. This ensures timely procurement and avoids stockouts.
+6. Electronic Health Records (EHR): The system provides a secure repository for storing and accessing electronic health records, enabling authorized healthcare professionals to retrieve patient information quickly and efficiently.
+7. Reporting and Analytics: Users can generate various reports and analyze key performance metrics to monitor the hospital's operational efficiency, patient outcomes, and financial performance.
+
+
 Benefits:
 
 Improved Efficiency: Automating routine tasks and centralizing data management streamline operations, reduce paperwork, and minimize errors, leading to increased efficiency in hospital workflows.
